@@ -94,13 +94,10 @@ python drowsiness_yawn.py
 -OpenCV
 -Pygame
 
-## 📜 License
-This project is licensed under the MIT License - feel free to use and modify it!
 
 ## 🙌 Contributing
 Found a bug? Have a suggestion? PRs are welcome!
 
-Let me know if you'd like a custom badge, a preview image, or to convert this into a styled HTML version for a GitHub Pages portfolio!
 
 ## 📞 Contact
 For any questions, feedback, or collaboration, feel free to connect:
